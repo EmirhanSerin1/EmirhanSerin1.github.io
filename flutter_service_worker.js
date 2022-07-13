@@ -30,8 +30,8 @@ const RESOURCES = {
 "assets/assets/skill_tree/flutter.png": "3c19844633ad2f6a5de4c1dc280481fd",
 "assets/NOTICES": "f7b5acd514f62d1e6b2fa0a9d970769e",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"index.html": "92c64b53dce192525e0a0a87b8717963",
-"/": "92c64b53dce192525e0a0a87b8717963"
+"index.html": "e8b254bf2d95954d7b93b070ebd170df",
+"/": "e8b254bf2d95954d7b93b070ebd170df"
 };
 
 // The application shell files that are downloaded before a service worker can
